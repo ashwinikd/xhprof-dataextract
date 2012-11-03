@@ -22,3 +22,7 @@ Change `config.py` and execute `run.py`. Sample config file is:
             "prefix": "xhprofextract"     #prefix for log files
         }
     }
+
+License
+=======
+BSD License
