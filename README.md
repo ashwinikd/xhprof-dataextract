@@ -8,6 +8,7 @@ information.
 Usage
 =====
 Change `config.py` and execute `run.py`. Sample config file is:
+
     config = {
         "db": {
             "name": "xhprof",    #database name
